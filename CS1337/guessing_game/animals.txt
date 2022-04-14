@@ -1,0 +1,29 @@
+Q Is your animal a mammal?
+	Q Does your animal ever have to program in C++?
+		G human
+		Q Does your animal ever bark?
+			Q Does your animal live in the water?
+				G sea lion
+				G dog
+			Q Does your animal live in the water?
+				G dolphin
+				Q Does your animal purr?
+					G cat
+					Q Does your animal produce milk?
+						Q Is your animal typically black and white?
+							G cow
+							G goat
+						Q Does your animal live in trees?
+							G squirrel
+							G sheep
+	Q Is your animal a reptile?
+		Q Does your animal have legs?
+			G lizard
+			G snake
+		Q Is your animal a bird?
+			Q Does your animal live in a cold environment?
+				G penguin
+				G blue jay
+			Q Does your animal produce honey?
+				G honey bee
+				G mosquito
